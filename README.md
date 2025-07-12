@@ -32,7 +32,9 @@
 - Name: `GatewaySubnet`
 - Address range: e.g., `10.10.255.0/27`
 
-📸 *Add screenshot of GatewaySubnet creation*
+![Screenshot](assets/Screenshot 2025-07-12 182931.png)
+![Screenshot](assets/Screenshot 2025-07-12 183013.png)
+
 
 ---
 
@@ -51,7 +53,8 @@
 
 ⏳ Deployment takes ~30–45 minutes.
 
-📸 *Add screenshot of VPN Gateway configuration*
+![Screenshot](assets/Screenshot 2025-07-12 183031.png)
+![Screenshot](assets/Screenshot 2025-07-12 183038.png)
 
 ---
 
