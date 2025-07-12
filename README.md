@@ -154,24 +154,3 @@ ping 10.10.1.x  (Azure VM IP)
 | Connection drops | Use static public IP for RRAS, enable keep-alive |
 
 ---
-
-## 📂 Suggested GitHub Folder Structure
-
-```
-azure-s2s-hyperv-rras/
-├── README.md
-├── screenshots/
-│   ├── gateway-subnet.png
-│   ├── vpn-gateway.png
-│   ├── rras-demand-dial.png
-│   └── connection-success.png
-├── scripts/
-│   └── install-rras.ps1
-```
-
----
-
-## 📄 References
-
-- 🔗 [Original Guide by Nickolaj Andersen – MSEndpointMgr](https://msendpointmgr.com/2020/04/01/build-azure-site-to-site-vpn-with-routing-and-remote-access-service/)
-- 🔗 [Microsoft Docs – RRAS Site-to-Site VPN](https://learn.microsoft.com/en-us/windows-server/remote/remote-access/vpn/site-to-site-vpn)
