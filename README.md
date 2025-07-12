@@ -79,8 +79,6 @@
 - Shared Key: e.g., `AzureSharedSecret123!`
 - Select your Local Network Gateway
 
-📸 *Add screenshot of Connection settings*
-
 ---
 
 ### 🖥️ 5. **On-Prem (Hyper-V) – RRAS Setup**
@@ -103,7 +101,7 @@ Or:
 - Select: **VPN Access** and **NAT**
 - Finish wizard and start the RRAS service
 
-📸 *Screenshot: RRAS Wizard options*
+![Screenshot](assets/Screenshot%202025-07-12%20184709.png)
 
 ---
 
@@ -116,7 +114,7 @@ Or:
 5. Credentials: Leave blank  
 6. Use **Pre-shared key** (must match Azure)
 
-📸 *Screenshot: Demand-Dial setup*
+![Screenshot](assets/Screenshot%202025-07-12%20184709.png)
 
 ---
 
@@ -149,7 +147,7 @@ In RRAS:
 ping 10.10.1.x  (Azure VM IP)
 ```
 
-📸 *Screenshot: Successful connection in Azure*
+![Screenshot](assets/Screenshot%202025-07-12%20184709.png)
 
 ---
 
