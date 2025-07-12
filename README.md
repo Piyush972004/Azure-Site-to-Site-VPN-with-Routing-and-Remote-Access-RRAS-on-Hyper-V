@@ -32,8 +32,8 @@
 - Name: `GatewaySubnet`
 - Address range: e.g., `10.10.255.0/27`
 
-![Screenshot](assets/Screenshot 2025-07-12 182931.png)
-![Screenshot](assets/Screenshot 2025-07-12 183013.png)
+![Screenshot](assets/Screenshot%202025-07-12%20182931.png)
+![Screenshot](assets/Screenshot%202025-07-12%20183013.png)
 
 
 ---
@@ -53,8 +53,8 @@
 
 ⏳ Deployment takes ~30–45 minutes.
 
-![Screenshot](assets/Screenshot 2025-07-12 183031.png)
-![Screenshot](assets/Screenshot 2025-07-12 183038.png)
+![Screenshot](assets/Screenshot%202025-07-12%20183031.png)
+![Screenshot](assets/Screenshot%202025-07-12%20183038.png)
 
 ---
 
@@ -63,7 +63,12 @@
 - Name: `onprem-lng`
 - IP address: Public IP of your on-prem RRAS server
 - Address space: `192.168.10.0/24` (or your on-prem subnet)
-
+  -
+![Screenshot](assets/Screenshot%202025-07-12%20184633.png)
+![Screenshot](assets/Screenshot%202025-07-12%20184640.png)
+![Screenshot](assets/Screenshot%202025-07-12%20184650.png)
+![Screenshot](assets/Screenshot%202025-07-12%20184658.png)
+![Screenshot](assets/Screenshot%202025-07-12%20184709.png)
 ---
 
 ### ☁️ 4. **Azure – VPN Connection**
