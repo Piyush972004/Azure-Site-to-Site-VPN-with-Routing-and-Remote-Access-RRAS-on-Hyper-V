@@ -101,7 +101,9 @@ Or:
 - Select: **VPN Access** and **NAT**
 - Finish wizard and start the RRAS service
 
-![Screenshot](assets/Screenshot%202025-07-12%20184709.png)
+![Screenshot](assets/Screenshot%202025-07-12%20190321.png)
+![Screenshot](assets/Screenshot%202025-07-12%20190335.png)
+![Screenshot](assets/Screenshot%202025-07-12%20190340.png)
 
 ---
 
@@ -114,7 +116,7 @@ Or:
 5. Credentials: Leave blank  
 6. Use **Pre-shared key** (must match Azure)
 
-![Screenshot](assets/Screenshot%202025-07-12%20184709.png)
+![Screenshot](assets/Screenshot%202025-07-12%20190344.png)
 
 ---
 
@@ -125,12 +127,18 @@ In RRAS:
 - Subnet Mask: `255.255.0.0`
 - Interface: `AzureVPN`
 
+![Screenshot](assets/Screenshot%202025-07-12%20190424.png)
+![Screenshot](assets/Screenshot%202025-07-12%20190434.png)
+
 ---
 
 #### 5.5 Set up NAT
 - Right-click NAT → New Interface → Select your LAN NIC
 - Enable NAT on internal interface
 
+-
+![Screenshot](assets/Screenshot%202025-07-12%20190437.png)
+![Screenshot](assets/Screenshot%202025-07-12%20190444.png)
 ---
 
 ### 🔁 6. **Test & Verify Connection**
@@ -147,7 +155,10 @@ In RRAS:
 ping 10.10.1.x  (Azure VM IP)
 ```
 
-![Screenshot](assets/Screenshot%202025-07-12%20184709.png)
+![Screenshot](assets/Screenshot%202025-07-12%20190654.png)
+![Screenshot](assets/Screenshot%202025-07-12%20190658.png)
+![Screenshot](assets/Screenshot%202025-07-12%20190646.png)
+
 
 ---
 
